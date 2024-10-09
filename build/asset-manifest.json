@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://timer.sojourninsight.com/static/css/main.e6c13ad2.css",
+    "main.js": "https://timer.sojourninsight.com/static/js/main.54120437.js",
+    "static/js/453.bf356a7a.chunk.js": "https://timer.sojourninsight.com/static/js/453.bf356a7a.chunk.js",
+    "index.html": "https://timer.sojourninsight.com/index.html",
+    "main.e6c13ad2.css.map": "https://timer.sojourninsight.com/static/css/main.e6c13ad2.css.map",
+    "main.54120437.js.map": "https://timer.sojourninsight.com/static/js/main.54120437.js.map",
+    "453.bf356a7a.chunk.js.map": "https://timer.sojourninsight.com/static/js/453.bf356a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.54120437.js"
+  ]
+}
